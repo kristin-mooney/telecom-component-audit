@@ -1,4 +1,4 @@
-# 📡 Telecom Component Audit Framework
+# Telecom Component Audit Framework
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://kristin-mooney.github.io/telecom-component-audit-framework/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-Audit%20Engine-red?logo=microsoftsqlserver)](https://kristin-mooney.github.io/telecom-component-audit-framework/)
@@ -7,11 +7,11 @@ An automated telecommunications component audit framework built using SQL Server
 
 ---
 
-## 🔗 [View Full Project Write-Up](https://kristin-mooney.github.io/telecom-component-audit-framework/)
+## [View Full Project Write-Up](https://kristin-mooney.github.io/telecom-component-audit-framework/)
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### Dashboard 1 — Executive Audit Dashboard
 ![Executive Audit Dashboard](screenshots/audit-summary-dashboard.png)
@@ -36,19 +36,19 @@ Supports operational teams in identifying systemic failures and determining corr
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 | Insight | Detail |
 |---|---|
-| ⚡ Scale of Detection | Tens of thousands of failed components identified in a single reporting cycle |
-| 💰 Revenue Exposure | Active incorrect billing and rejecting revenue surfaced requiring immediate escalation |
-| ⏱️ Efficiency Gain | Root cause investigation reduced from multi-system manual process to daily automated report |
-| 🎯 Risk-Tiered Triage | Operations team able to route remediation in hours rather than days |
-| 🔄 Cross-System Coverage | Replaces manual investigation across multiple enterprise applications |
+| Scale of Detection | Tens of thousands of failed components identified in a single reporting cycle |
+| Revenue Exposure | Active incorrect billing and rejecting revenue surfaced requiring immediate escalation |
+| Efficiency Gain | Root cause investigation reduced from multi-system manual process to daily automated report |
+| Risk-Tiered Triage | Operations team able to route remediation in hours rather than days |
+| Cross-System Coverage | Replaces manual investigation across multiple enterprise applications |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **SQL Server** — audit engine, stored procedures, reconciliation logic
 - **SQL Server Integration Services (SSIS)** — ETL and data pipeline automation
@@ -56,7 +56,7 @@ Supports operational teams in identifying systemic failures and determining corr
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 - Production-scale telecommunications component dataset spanning millions of records across multiple enterprise customers
 - Data represents component orders moving through application layers, middleware, and downstream systems
@@ -65,7 +65,7 @@ Supports operational teams in identifying systemic failures and determining corr
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── screenshots/
